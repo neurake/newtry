@@ -17,9 +17,7 @@
           ul li{display:inline-block; margin:0 20px;}
           ul li a{text-decoration:none; list-style:none; color:white; font-size:20px; font-family:Dubai;}
          
-          .firstdiv{width:100%; height:500px;}
-          .firstdiv1{float:left; width:60%;}
-          .firstdiv2{float:right; width:40%;}
+          
     </style>
 </head>
 
@@ -38,8 +36,7 @@
         <li><a href="#"><i class="fa-solid fa-computer" style="color:white"></i> Computers</a></li>
         <li><a href="#"><i class="fa-solid fa-radio" style="color:white"></i> Speakers</a></li>
         <li><a href="#"><i class="fa-regular fa-clock" style="color:white"></i> Watch</a></li>
-       
-        <li><a href="#"><i class="fa-solid fa-book" style="color:white"></i> Books</a></li>
+       <li><a href="#"><i class="fa-solid fa-book" style="color:white"></i> Books</a></li>
     
         
 </ul>
@@ -56,7 +53,7 @@
 
 <main>
 <div class="firstdiv">
-                   
+           <h1>Hi</h1>        
 </div>
 </main>
 </body>
