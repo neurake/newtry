@@ -53,7 +53,7 @@
 
 <main>
 <div class="firstdiv">
-           <h1>Hi mi aahe newtry at your service at yor bum</h1>        
+           <h1>Hi mi aahe newtry at your service at your door</h1>        
 </div>
 </main>
 </body>
